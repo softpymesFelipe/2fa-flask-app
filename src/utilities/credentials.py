@@ -3,7 +3,8 @@ class Credential:
     
     __USERNAMES = [
         {'username': 'chelispipe', 'password': 'Admin*5', '2FA': False}, 
-        {'username': 'laquiceno', 'password': 'Sofia81', '2FA': False}
+        {'username': 'laquiceno', 'password': 'Admin*81', '2FA': False},
+        {'username': 'administrador', 'password': 'Admin*2', '2FA': False}
     ]
     
     @staticmethod
